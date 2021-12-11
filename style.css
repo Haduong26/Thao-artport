@@ -1,0 +1,17 @@
+.icon_menu::before{
+    content: none !important;
+}
+
+.homepic {
+    width: 50rem;
+}
+
+.mkdf-page-footer .mkdf-footer-top-holder {
+    margin-top: 2rem;
+}
+
+.mkdf-parallax-row-holder{
+    background-size: 130%;
+    background-position: center;
+
+}
